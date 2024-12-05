@@ -1,4 +1,4 @@
-fetch('http://temp.staticsave.com/674f9e8ec04b3.xml')
+fetch('https://files.catbox.moe/hc8l5q.xml')
 .then(response => response.text())
 .then(databaseQC => {
         let parser = new DOMParser(),
@@ -32,7 +32,6 @@ fetch('http://temp.staticsave.com/674f9e8ec04b3.xml')
         document.getElementById("VehiclesB").innerHTML = tableVehicles;
 
         let reports = xml.getElementsByTagName("Report");
-        console.log(reports)
         let k;
         let tableReports = "";
         for (k = 0; k < reports.length; k++) {

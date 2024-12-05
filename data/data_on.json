@@ -176,9 +176,9 @@
                 "Province_ID": 7,
                 "Registration_ID_Number": "9-1235-56780",
                 "Vehicle_Information_Number": "1HGCM82632K654321",
-                "Date_Acquired": "Subaru",
-                "Brand": "Outback",
-                "Model": "2022-12-10"
+                "Date_Acquired": "2022-12-10",
+                "Brand": "Subaru",
+                "Model": "Outback"
             },
             {
                 "Province_ID": 7,
