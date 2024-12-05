@@ -1,4 +1,4 @@
-fetch('https://temp.staticsave.com/674ff929adb04.json')
+fetch('https://github.com/SendMeCatPics/comp1020_final/blob/main/data/data_on.json')
 .then(response => response.json())
 .then(databaseON => {
     databaseON["Ontario Vehicle Information"].Owner_Details.forEach(element => {

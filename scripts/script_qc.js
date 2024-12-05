@@ -1,4 +1,4 @@
-fetch('https://temp.staticsave.com/674f9e8ec04b3.xml')
+fetch('https://github.com/SendMeCatPics/comp1020_final/blob/main/data/data_qc.xml')
 .then(response => response.text())
 .then(databaseQC => {
         let parser = new DOMParser(),
