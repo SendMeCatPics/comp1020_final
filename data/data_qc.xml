@@ -1,0 +1,137 @@
+<Quebec_Vehicle_Information>
+    <Owner_Details>
+        <Owner>
+            <Registration_ID_Number>9-4235-56783</Registration_ID_Number>
+            <Name>Alexander Lee</Name>
+            <Contact_Number>819-555-4235</Contact_Number>
+            <Province_ID>9</Province_ID>
+            <Postal_Code>J8T 1M7</Postal_Code>
+        </Owner>
+        <Owner>
+            <Registration_ID_Number>9-5235-56784</Registration_ID_Number>
+            <Name>Amelia Moore</Name>
+            <Contact_Number>514-555-5235</Contact_Number>
+            <Province_ID>9</Province_ID>
+            <Postal_Code>H2X 1Y6</Postal_Code>
+        </Owner>
+        <Owner>
+            <Registration_ID_Number>9-6235-56785</Registration_ID_Number>
+            <Name>Ethan Taylor</Name>
+            <Contact_Number>438-555-6235</Contact_Number>
+            <Province_ID>9</Province_ID>
+            <Postal_Code>H3Z 2C3</Postal_Code>
+        </Owner>
+        <Owner>
+            <Registration_ID_Number>9-9236-56789</Registration_ID_Number>
+            <Name>Grace Carter</Name>
+            <Contact_Number>418-555-9236</Contact_Number>
+            <Province_ID>9</Province_ID>
+            <Postal_Code>G1K 4H9</Postal_Code>
+        </Owner>
+        <Owner>
+            <Registration_ID_Number>9-1237-56780</Registration_ID_Number>
+            <Name>Samuel Young</Name>
+            <Contact_Number>450-555-1237</Contact_Number>
+            <Province_ID>9</Province_ID>
+            <Postal_Code>J4Y 1K3</Postal_Code>
+        </Owner>
+        <Owner>
+            <Registration_ID_Number>9-8237-56787</Registration_ID_Number>
+            <Name>Scarlett Wood</Name>
+            <Contact_Number>514-555-8237</Contact_Number>
+            <Province_ID>9</Province_ID>
+            <Postal_Code>H3B 2S4</Postal_Code>
+        </Owner>
+        <Owner>
+            <Registration_ID_Number>9-3238-56783</Registration_ID_Number>
+            <Name>Evelyn Ramirez</Name>
+            <Contact_Number>450-555-3238</Contact_Number>
+            <Province_ID>9</Province_ID>
+            <Postal_Code>J5H 1C4</Postal_Code>
+        </Owner>
+    </Owner_Details>
+    <Vehicle_Information>
+        <Vehicle>
+            <Province_ID>9</Province_ID>
+            <Registration_ID_Number>9-4235-56783</Registration_ID_Number>
+            <Vehicle_Information_Number>3HGCM82634M432198</Vehicle_Information_Number>
+            <Date_Acquired>2021-07-22</Date_Acquired>
+            <Brand>BMW</Brand>
+            <Model>3 Series</Model>
+        </Vehicle>
+        <Vehicle>
+            <Province_ID>9</Province_ID>
+            <Registration_ID_Number>9-5235-56784</Registration_ID_Number>
+            <Vehicle_Information_Number>4HGCM82635N321987</Vehicle_Information_Number>
+            <Date_Acquired>2023-02-05</Date_Acquired>
+            <Brand>Mercedes-Benz</Brand>
+            <Model>C-Class</Model>
+        </Vehicle>
+        <Vehicle>
+            <Province_ID>9</Province_ID>
+            <Registration_ID_Number>9-6235-56785</Registration_ID_Number>
+            <Vehicle_Information_Number>5HGCM82636P219876</Vehicle_Information_Number>
+            <Date_Acquired>2023-05-08</Date_Acquired>
+            <Brand>Tesla</Brand>
+            <Model>Model 3</Model>
+        </Vehicle>
+        <Vehicle>
+            <Province_ID>9</Province_ID>
+            <Registration_ID_Number>9-9236-56789</Registration_ID_Number>
+            <Vehicle_Information_Number>8HGCM82638B654321</Vehicle_Information_Number>
+            <Date_Acquired>2023-03-12</Date_Acquired>
+            <Brand>Porsche</Brand>
+            <Model>Macan</Model>
+        </Vehicle>
+        <Vehicle>
+            <Province_ID>9</Province_ID>
+            <Registration_ID_Number>9-1237-56780</Registration_ID_Number>
+            <Vehicle_Information_Number>9HGCM82639C543210</Vehicle_Information_Number>
+            <Date_Acquired>2023-10-01</Date_Acquired>
+            <Brand>Honda</Brand>
+            <Model>Civic</Model>
+        </Vehicle>
+        <Vehicle>
+            <Province_ID>9</Province_ID>
+            <Registration_ID_Number>9-8237-56787</Registration_ID_Number>
+            <Vehicle_Information_Number>7HGCM82636K654321</Vehicle_Information_Number>
+            <Date_Acquired>2023-11-18</Date_Acquired>
+            <Brand>Volkswagen</Brand>
+            <Model>Tiguan</Model>
+        </Vehicle>
+        <Vehicle>
+            <Province_ID>9</Province_ID>
+            <Registration_ID_Number>9-3238-56783</Registration_ID_Number>
+            <Vehicle_Information_Number>2HGCM82630P219876</Vehicle_Information_Number>
+            <Date_Acquired>2023-09-09</Date_Acquired>
+            <Brand>BMW</Brand>
+            <Model>X5</Model>
+        </Vehicle>
+    </Vehicle_Information>
+    <Theft_Reports>
+        <Report>
+            <Date_Stolen>2022-07-20</Date_Stolen>
+            <Registration_ID_Number>9-2236-56782</Registration_ID_Number>
+            <Vehicle_Information_Number>1HGCM82631U543210</Vehicle_Information_Number>
+            <Location>Montreal, QC</Location>
+            <Province_ID>9</Province_ID>
+            <Status>Recovered</Status>
+        </Report>
+        <Report>
+            <Date_Stolen>2020-12-29</Date_Stolen>
+            <Registration_ID_Number>9-9234-56789</Registration_ID_Number>
+            <Vehicle_Information_Number>9HGCM82631J765432</Vehicle_Information_Number>
+            <Location>Laval, QC</Location>
+            <Province_ID>9</Province_ID>
+            <Status>Recovered</Status>
+        </Report>
+        <Report>
+            <Date_Stolen>2022-07-20</Date_Stolen>
+            <Registration_ID_Number>9-2236-56782</Registration_ID_Number>
+            <Vehicle_Information_Number>1HGCM82631U543210</Vehicle_Information_Number>
+            <Location>Montreal QC</Location>
+            <Province_ID>9</Province_ID>
+            <Status>Recovered</Status>
+        </Report>
+    </Theft_Reports>
+</Quebec_Vehicle_Information>

@@ -1,0 +1,334 @@
+{
+    "Ontario Vehicle Information":
+    {
+        "Owner_Details": 
+        [
+            {
+                "Registration_ID_Number": "9-1234-56789",
+                "Name": "John Doe",
+                "Contact_Number": "416-555-0123",
+                "Province_ID": 7,
+                "Postal_Code": "M5A 1A1"
+            },
+            {
+                "Registration_ID_Number": "9-2345-67890",
+                "Name": "Jane Smith",
+                "Contact_Number": "905-555-0456",
+                "Province_ID": 7,
+                "Postal_Code": "H2X 1X1"
+            },
+            {
+                "Registration_ID_Number": "9-1234-56781",
+                "Name": "Emily Johnson",
+                "Contact_Number": "416-555-1234",
+                "Province_ID": 7,
+                "Postal_Code": "M5A 1A1"
+            },
+            {
+                "Registration_ID_Number": "9-2234-56782",
+                "Name": "Liam Brown",
+                "Contact_Number": "604-555-2234",
+                "Province_ID": 7,
+                "Postal_Code": "V6B 3K4"
+            },
+            {
+                "Registration_ID_Number": "9-9234-56789",
+                "Name": "William Martin",
+                "Contact_Number": "613-555-9234",
+                "Province_ID": 7,
+                "Postal_Code": "K1A 0B1"
+            },
+            {
+                "Registration_ID_Number": "9-1235-56780",
+                "Name": "Sophia Wright",
+                "Contact_Number": "867-555-1235",
+                "Province_ID": 7,
+                "Postal_Code": "X1A 1R3"
+            },{
+                "Registration_ID_Number": "9-2235-56781",
+                "Name": "James Clark",
+                "Contact_Number": "867-555-2235",
+                "Province_ID": 7,
+                "Postal_Code": "Y1A 1V5"
+            },
+            {
+                "Registration_ID_Number": "9-9235-56788",
+                "Name": "Ella Edwards",
+                "Contact_Number": "867-555-9235",
+                "Province_ID": 7,
+                "Postal_Code": "Y1A 1L2"
+            },
+            {
+                "Registration_ID_Number": "9-1236-56781",
+                "Name": "Henry Roberts",
+                "Contact_Number": "905-555-1236",
+                "Province_ID": 7,
+                "Postal_Code": "L1A 3P4"
+            },
+            {
+                "Registration_ID_Number": "9-4236-56784",
+                "Name": "Chloe Adams",
+                "Contact_Number": "807-555-4236",
+                "Province_ID": 7,
+                "Postal_Code": "P7B 1C7"
+            },
+            {
+                "Registration_ID_Number": "9-5236-56785",
+                "Name": "Harper Green",
+                "Contact_Number": "519-555-5236",
+                "Province_ID": 7,
+                "Postal_Code": "N2L 3G1"
+            },
+            {
+                "Registration_ID_Number": "9-8236-56788",
+                "Name": "Daniel Baker",
+                "Contact_Number": "416-555-8236",
+                "Province_ID": 7,
+                "Postal_Code": "M6J 3K5"
+            },
+            {
+                "Registration_ID_Number": "9-2237-56781",
+                "Name": "Victoria Hughes",
+                "Contact_Number": "289-555-2237",
+                "Province_ID": 7,
+                "Postal_Code": "L6T 1Z3"
+            },
+            {
+                "Registration_ID_Number": "9-3237-56782",
+                "Name": "Jack Mitchell",
+                "Contact_Number": "705-555-3237",
+                "Province_ID": 7,
+                "Postal_Code": "P1L 1S2"
+            },
+            {
+                "Registration_ID_Number": "9-4237-56783",
+                "Name": "'Madison Perez",
+                "Contact_Number": "807-555-4237",
+                "Province_ID": 7,
+                "Postal_Code": "P7E 4G6"
+            },
+            {
+                "Registration_ID_Number": "9-9237-56788",
+                "Name": "Isaac Bell",
+                "Contact_Number": "613-555-9237",
+                "Province_ID": 7,
+                "Postal_Code": "K2P 1G6"
+            },
+            {
+                "Registration_ID_Number": "9-1238-56781",
+                "Name": "Sofia Kelly",
+                "Contact_Number": "905-555-1238",
+                "Province_ID": 7,
+                "Postal_Code": "L5T 1A8"
+            },
+            {
+                "Registration_ID_Number": "9-2238-56782",
+                "Name": "Nathan Cox",
+                "Contact_Number": "519-555-2238",
+                "Province_ID": 7,
+                "Postal_Code": "N1G 3A2"
+            }
+        ],
+
+        "Vehicle_Information": 
+        [
+            {
+                "Province_ID": 7,
+                "Registration_ID_Number": "9-1234-56789",
+                "Vehicle_Information_Number": "1HGCM82633A123456",
+                "Date_Acquired": "2016-11-23",
+                "Brand": "Toyota",
+                "Model": "Camry"
+            },
+            {
+                "Province_ID": 7,
+                "Registration_ID_Number": "9-2345-67890",
+                "Vehicle_Information_Number": "2G1FP22P9P2123456",
+                "Date_Acquired": "2016-08-15",
+                "Brand": "Ford",
+                "Model": "F-150"
+            },
+            {
+                "Province_ID": 7,
+                "Registration_ID_Number": "9-1234-56781",
+                "Vehicle_Information_Number": "1HGCM82633B987654",
+                "Date_Acquired": "2023-01-12",
+                "Brand": "Honda",
+                "Model": "Accord"
+            },
+            {
+                "Province_ID": 7,
+                "Registration_ID_Number": "9-2234-56782",
+                "Vehicle_Information_Number": "2HGCM82634A765432",
+                "Date_Acquired": "2022-11-30",
+                "Brand": "Toyota",
+                "Model": "Camry"
+            },
+            {
+                "Province_ID": 7,
+                "Registration_ID_Number": "9-9234-56789",
+                "Vehicle_Information_Number": "9HGCM82631J765432",
+                "Date_Acquired": "2023-06-25",
+                "Brand": "Kia",
+                "Model": "Sportage"
+            },
+            {
+                "Province_ID": 7,
+                "Registration_ID_Number": "9-1235-56780",
+                "Vehicle_Information_Number": "1HGCM82632K654321",
+                "Date_Acquired": "Subaru",
+                "Brand": "Outback",
+                "Model": "2022-12-10"
+            },
+            {
+                "Province_ID": 7,
+                "Registration_ID_Number": "9-2235-56781",
+                "Vehicle_Information_Number": "2HGCM82633L543210",
+                "Date_Acquired": "2023-03-14",
+                "Brand": "Mitsubishi",
+                "Model": "Lancer"
+            },
+            {
+                "Province_ID": 7,
+                "Registration_ID_Number": "9-9235-56788",
+                "Vehicle_Information_Number": "8HGCM82639S765432",
+                "Date_Acquired": "2023-01-19",
+                "Brand": "Audi",
+                "Model": "A4"
+            },
+            {
+                "Province_ID": 7,
+                "Registration_ID_Number": "9-1236-56781",
+                "Vehicle_Information_Number": "9HGCM82630T654321",
+                "Date_Acquired": "2021-11-15",
+                "Brand": "Volvo",
+                "Model": "XC60"
+            },
+            {
+                "Province_ID": 7,
+                "Registration_ID_Number": "9-4236-56784",
+                "Vehicle_Information_Number": "3HGCM82633W321987",
+                "Date_Acquired": "2022-08-17",
+                "Brand": "Dodge",
+                "Model": "Charger"
+            },
+            {
+                "Province_ID": 7,
+                "Registration_ID_Number": "9-5236-56785",
+                "Vehicle_Information_Number": "4HGCM82634X219876",
+                "Date_Acquired": "2023-07-29",
+                "Brand": "Chrysler",
+                "Model": "Pacifica"
+            },
+            {
+                "Province_ID": 7,
+                "Registration_ID_Number": "9-8236-56788",
+                "Vehicle_Information_Number": "7HGCM82637A765432",
+                "Date_Acquired": "2022-05-20",
+                "Brand": "Land Rover",
+                "Model": "Range Rover"
+            },
+            {
+                "Province_ID": 7,
+                "Registration_ID_Number": "9-2237-56781",
+                "Vehicle_Information_Number": "1HGCM82630D432198",
+                "Date_Acquired": "2023-02-25",
+                "Brand": "Toyota",
+                "Model": "RAV4"
+            },
+            {
+                "Province_ID": 7,
+                "Registration_ID_Number": "9-3237-56782",
+                "Vehicle_Information_Number": "2HGCM82631E321987",
+                "Date_Acquired": "2022-06-30",
+                "Brand": "Ford",
+                "Model": "Escape"
+            },
+            {
+                "Province_ID": 7,
+                "Registration_ID_Number": "9-4237-56783",
+                "Vehicle_Information_Number": "3HGCM82632F219876",
+                "Date_Acquired": "2021-09-10",
+                "Brand": "Chevrolet",
+                "Model": "Equinox"
+            },
+            {
+                "Province_ID": 7,
+                "Registration_ID_Number": "9-9237-56788",
+                "Vehicle_Information_Number": "8HGCM82637L543210",
+                "Date_Acquired": "2023-06-02",
+                "Brand": "Kia",
+                "Model": "Seltos"
+            },
+            {
+                "Province_ID": 7,
+                "Registration_ID_Number": "9-1238-56781",
+                "Vehicle_Information_Number": "9HGCM82638M432198",
+                "Date_Acquired": "2022-01-25",
+                "Brand": "Subaru",
+                "Model": "Forester"
+            },
+            {
+                "Province_ID": 7,
+                "Registration_ID_Number": "9-2238-56782",
+                "Vehicle_Information_Number": "1HGCM82639N321987",
+                "Date_Acquired": "2023-07-11",
+                "Brand": "Mitsubishi",
+                "Model": "Outlander"
+            }
+        ],
+        
+        "Theft_Reports": 
+        [
+            {
+                "Date_Stolen": "2019-12-10",
+                "Registration_ID_Number": "9-2234-56782",
+                "Vehicle_Information_Number": "2HGCM82634A765432",
+                "Location": "Toronto, ON",
+                "Province_ID": 7,
+                "Status": "Active"
+            },
+            {
+                "Date_Stolen": "2020-03-26",
+                "Registration_ID_Number": "9-5234-56785",
+                "Vehicle_Information_Number": "5HGCM82637E321987",
+                "Location": "Mississauga, ON",
+                "Province_ID": 7,
+                "Status": "Active"
+            },
+            {
+                "Date_Stolen": "2020-05-23",
+                "Registration_ID_Number": "9-6234-56786",
+                "Vehicle_Information_Number": "6HGCM82638F219876",
+                "Location": "Brampton, ON",
+                "Province_ID": 7,
+                "Status": "Active"
+            },
+            {
+                "Date_Stolen": "2020-06-15",
+                "Registration_ID_Number": "9-7234-56787",
+                "Vehicle_Information_Number": "7HGCM82639G198765",
+                "Location": "Ottawa, ON",
+                "Province_ID": 7,
+                "Status": "Recovered"
+            },
+            {
+                "Date_Stolen": "2023-03-20",
+                "Registration_ID_Number": "9-4236-56784",
+                "Vehicle_Information_Number": "3HGCM82633W321987",
+                "Location": "Mississauga, ON",
+                "Province_ID": 7,
+                "Status": "Recovered"
+            },
+            {
+                "Date_Stolen": "2023-11-17",
+                "Registration_ID_Number": "9-7236-56787",
+                "Vehicle_Information_Number": "6HGCM82636Z987654",
+                "Location": "Toronto, ON",
+                "Province_ID": 7,
+                "Status": "Recovered"
+            }
+        ]
+    }
+
+}

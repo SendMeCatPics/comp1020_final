@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="styles/style.css" type="text/css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+    <script src="./scripts/script_qc.js"></script>
+    <title>Vehicle Theft Tracker</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul class="nav">
+                <a href="./index.html"><li>Home</li></a>
+                <a href="./ontario.html"><li>Ontario</li></a>
+                <a href="./quebec.html"><li>Quebec</li></a>
+            </ul>
+        </nav>
+        <h1>Vehicle Theft Tracker</h1>
+        <br />
+        <h2>COMP 1020 Fall 2024 Final Project</h2>
+    </header>
+    <main>
+        <h3>Quebec</h3>
+        <br />
+        <table class="col5">
+            <thead>
+                <h4>Owner Details</h4>
+                <tr>
+                    <th>Registration ID Number</th>
+                    <th>Name</th>
+                    <th>Contact</th>
+                    <th>Province ID</th>
+                    <th>Postal Code</th>
+                </tr>
+            </thead>
+            <tbody id="OwnersB">
+            </tbody>
+        </table>
+        <br />
+        <table>
+            <thead>
+                <h4>Vehicle Details</h4>
+                <tr>
+                    <th>Province ID</th>
+                    <th>Registration ID Number</th>
+                    <th>Vehicle Information Number</th>
+                    <th>Date Acquired</th>
+                    <th>Brand</th>
+                    <th>Model</th>
+                </tr>
+            </thead>
+            <tbody id="VehiclesB">
+            </tbody>
+        </table>
+        <br />
+        <table>
+            <thead>
+                <h4>Theft Reports</h4>
+                <tr>
+                    <th>Date Stolen</th>
+                    <th>Registration ID Number</th>
+                    <th>Vehicle Information Number</th>
+                    <th>Location</th>
+                    <th>Province ID</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+            <tbody id="TheftsB">
+            </tbody>
+        </table>
+    </main>
+    <footer>
+        <p>2024 Katherine Kapiga, Meryl Jeams Samson, Ping Liu, Jaskaran Singh</p>
+    </footer>
+</body>
+</html>
